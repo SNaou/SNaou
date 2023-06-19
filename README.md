@@ -4,24 +4,24 @@
                                   👨‍💻 I'm a passionate UX designer:
 focused on creating intuitive and user-friendly interfaces that enhance the overall user experience. With a background in both design and technology, I bring a unique perspective to my work, combining creativity with savvy business-minded intuition.
 
-💡 UX Expertise: 
+                                  💡 UX Expertise: 
 With expertise in User Research, Prototyping, Wireframing, Personas, and User Flows and Journeys, I am equipped to deliver solutions that meet both user needs and business objectives. 
 
 I leverage tools like Figma and follow Scrum methodology to collaborate effectively with cross-functional teams and transform designs into interactive experiences.
 
-🎨 Design Mindset: 
+                                  🎨 Design Mindset: 
 I have a deep passion for the design aspect of UX, constantly seeking to push the boundaries of creativity. Whether it's crafting visually stunning interfaces or designing engaging interactions, I strive to bring ideas to life that captivate users and leave a lasting impact.
 
-🌐 Collaboration:                                                  
+                                  🌐 Collaboration:                                                  
 I value collaboration and believe in the power of teamwork. I enjoy working closely with cross-functional teams, including developers and stakeholders, to ensure seamless integration of design solutions and foster a user-centered approach throughout the development process.
 
-📚 Beyond UX:                                                   
+                                  📚 Beyond UX:                                                   
 In my free time, you'll find me immersed in books, both for self-development and the sheer joy of fiction. I'm also passionate about various artistic endeavors, such as drawing, painting, and analog photography. Traveling and meeting new people inspire me and broaden my creative horizons.
 
- ⭐ Portfolio:                                                
+                                   ⭐ Portfolio:                                                
 You can explore my portfolio and past design projects on [insert your portfolio link]. I'm always eager to showcase my work and discuss how design can make a difference in creating exceptional user experiences.
 
-📫 Let's Connect:                                                
+                                  📫 Let's Connect:                                                
 If you're interested in collaborating or discussing design ideas, feel free to connect with me on LinkedIn https://www.linkedin.com/in/soumayanaou/ or drop me an email at s.naou@icloud.com. I'm always open to connecting with like-minded professionals and exploring exciting design opportunities.
 
 ✨ Thank you for visiting my profile. 
