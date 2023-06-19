@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi! I'm Soumaya</h1>
-<h3 align="center"
+<p align="center">
   
 👨‍💻 Passionate creative UX Designer | Intuitive Interfaces | Creative Collaboration
 
@@ -18,8 +18,8 @@ User research, wireframing, prototyping, and creating user personas and flows ar
 
 📫 Let's Connect: Interested in collaborating or bouncing around design ideas? Connect with me on LinkedIn at https://www.linkedin.com/in/soumayanaou/ or drop me an email at s.naou@icloud.com. I'm all ears for fellow professionals and thrilling design opportunities.
 
-✨ Thanks for stopping by my profile. Let's collaborate, innovate, and craft delightful user experiences together! ✨</h3>
-  
+✨ Thanks for stopping by my profile. Let's collaborate, innovate, and craft delightful user experiences together! ✨
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soumayanaou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumayanaou/" height="30" width="40" /></a>
