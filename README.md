@@ -1,11 +1,11 @@
 <h1 align="center"> 👋 Hi! I'm Soumaya</h1>
 <h3 align="center">
   
-👨‍💻 Passionate UX Designer | Intuitive Interfaces | Creative Collaboration
+👨‍💻 Passionate creative UX Designer | Intuitive Interfaces | Creative Collaboration
 
-Hey there! I'm a passionate UX designer with a knack for creating intuitive and user-friendly interfaces that take the user experience to the next level. With a fusion of design and tech skills, I bring a unique perspective to my work, blending creativity with business-savvy intuition.
+Hey there! I'm a passionate creatove UX designer with a knack for creating intuitive, beautifull and user-friendly interfaces that take the user experience to the next level. With a fusion of design andtech skills, I bring a unique perspective to my work, blending creativity with business-savvy intuition.
 
-💡 UX Expertise: User research, wireframing, prototyping, and creating user personas and flows are my secret weapons. I use tools like Figma and embrace the Scrum methodology to collaborate seamlessly with diverse teams and transform designs into interactive experiences.
+💡 UX Expertise: User research, wireframing, prototyping, and creating user personas and flows are my secret weapons. I love to use tools like Figma and embrace the Scrum methodology fully to collaborate seamlessly with diverse teams and transform designs into interactive experiences.
 
 🎨 Design Mindset: I'm all about pushing creative boundaries! Whether it's crafting visually stunning interfaces or designing engaging interactions, I strive to bring ideas to life that captivate users and leave a lasting impact.
 
@@ -15,7 +15,7 @@ Hey there! I'm a passionate UX designer with a knack for creating intuitive and 
 
 ⭐ Portfolio: Curious about my design prowess? Check out my portfolio and past projects at [insert your portfolio link]. I'm always excited to showcase my work and discuss how design can create exceptional user experiences.
 
-📫 Let's Connect: Interested in collaborating or bouncing around design ideas? Connect with me on LinkedIn at [insert your LinkedIn profile link] or drop me an email at s.naou@icloud.com. I'm all ears for fellow professionals and thrilling design opportunities.
+📫 Let's Connect: Interested in collaborating or bouncing around design ideas? Connect with me on LinkedIn at https://www.linkedin.com/in/soumayanaou/ or drop me an email at s.naou@icloud.com. I'm all ears for fellow professionals and thrilling design opportunities.
 
 ✨ Thanks for stopping by my profile. Let's collaborate, innovate, and craft delightful user experiences together! ✨
   
