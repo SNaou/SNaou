@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋,Welcome to my GitHub profile! I'm Soumaya</h1>
+<h1 align="center"> 👋 Hi! I'm Soumaya</h1>
 <h3 align="center">
   
-I'm a passionate UX designer focused on creating intuitive and user-friendly interfaces that enhance the overall user experience. With a background in both design and technology, I bring a unique perspective to my work, combining creativity with savvy business-minded intuition.
+                                  👨‍💻 I'm a passionate UX designer:
+focused on creating intuitive and user-friendly interfaces that enhance the overall user experience. With a background in both design and technology, I bring a unique perspective to my work, combining creativity with savvy business-minded intuition.
 
 💡 UX Expertise: 
 With expertise in User Research, Prototyping, Wireframing, Personas, and User Flows and Journeys, I am equipped to deliver solutions that meet both user needs and business objectives. 
