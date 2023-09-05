@@ -3,7 +3,7 @@
   
 👨‍💻 Passionate creative UX Designer | Intuitive Interfaces | Creative Collaboration
 
-Hey there! I'm a passionate creatove UX designer with a knack for creating intuitive, beautifull and user-friendly interfaces that take the user experience to the next level. With a fusion of design andtech skills, I bring a unique perspective to my work, blending creativity with business-savvy intuition.
+Hey there! I'm a passionate creatove UX designer with a knack for creating intuitive, beautifull and user-friendly interfaces that take the user experience to the next level. With a fusion of design andtech insight, I bring a unique perspective to my work, blending creativity with business-savvy intuition.
 
 💡 UX Expertise:
 User research, wireframing, prototyping, and creating user personas and flows are my secret weapons. I love to use tools like Figma and embrace the Scrum methodology fully to collaborate seamlessly with diverse teams and transform designs into interactive experiences.
